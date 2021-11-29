@@ -20,7 +20,7 @@ XU Haigao,CAO Yihong,MEI Hui,WU Jiaxu,WANG Yaliu,SHUI Tianyun,China Mobile Jiang
 
 **Special Explanation**
 
-Download on the server offer by the match organization is prohibit,we can not get the data(maybe sensitivity) download to local computer to run again.So the effect of code is only can be showed by screenshot of running on server.Or you can watch the **Working demo** to learn how the code works.
+Download on the server offer by the match organization is prohibit,we can not get the data(maybe sensitivity) download to local computer to run again.So the effect of code is only can be showed by screenshot of running on server.Or you can watch the **Working demo** to learn how the code works.The **Working demo** can be download from here to watch or watched at https://www.bilibili.com/video/BV1WL4y1W754/ .
 
 ## List of Notebooks:
 
@@ -58,6 +58,6 @@ Other04 168-168 wavenet model to compare(not necessary,only for watching and com
 
 **Special Explanation**
 
-Download on the server offer by the match organization is prohibit,we can not get the data(maybe sensitivity) download to local computer to run again.So the effect of code is only can be showed by screenshot of running on server.Or you can watch the **Working demo** to learn how the code works.Sorry for it.
+Download on the server offer by the match organization is prohibit,we can not get the data(maybe sensitivity) download to local computer to run again.So the effect of code is only can be showed by screenshot of running on server.Or you can watch the **Working demo** to learn how the code works.Sorry for it.The **Working demo** can be download from here to watch or watched at https://www.bilibili.com/video/BV1WL4y1W754/ .
 
 
